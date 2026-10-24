@@ -1,0 +1,6 @@
+# environment files
+.venv
+
+# data files
+data/nab/*
+data/bom/*
